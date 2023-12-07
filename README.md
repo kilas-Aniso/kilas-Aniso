@@ -6,7 +6,6 @@ I'm a dynamic professional with a diverse background in full-stack development, 
 
 - **Programming Languages:** Python, JavaScript, Kotlin
 - **Web Development:** React, Next.js, Django
-- **Mobile Development:** React Native
 - **Database Management:** PostgreSQL
 - **Frontend Technologies:** HTML5, CSS, Tailwind CSS
 - **Product Management:** Strategic planning, execution, ensuring project success
