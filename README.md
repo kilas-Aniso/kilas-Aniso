@@ -1,7 +1,5 @@
 # Hello, I'm Aniso Kilas 👋
 
-I'm a dynamic professional with a diverse background in full-stack development, passionate about creating innovative solutions and delightful user experiences. My expertise spans a range of technologies, including Python, JavaScript, Kotlin, React, Next.js, and Django.
-
 ## 🔧 Key Skills:
 
 - **Programming Languages:** Python, JavaScript, Kotlin
